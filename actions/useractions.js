@@ -2,7 +2,7 @@
 
 import Razorpay from "razorpay"
 import Payment from "@/models/Payment"
-import connectDb from "/db/connectDb"
+import connectDb from "@/db/connectDb"
 import User from "@/models/User"
 
 
